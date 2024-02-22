@@ -70,7 +70,9 @@
     <Compile Include="Assets/DialogueEditor/Assets/Scripts/EditableSetParamAction.cs" />
     <Compile Include="Assets/DialogueEditor/Assets/Scripts/UI/UIConversationButton.cs" />
     <Compile Include="Assets/ChaseBehavior.cs" />
+    <Compile Include="Assets/ConversationStarter.cs" />
     <Compile Include="Assets/Invector-3rdPersonController_LITE/3D Models/Others/HealthItem/vAnimateUV.cs" />
+    <Compile Include="Assets/Scripts/PlayerManager.cs" />
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vExtensions.cs" />
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonMotor.cs" />
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonInput.cs" />
@@ -85,10 +87,12 @@
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/Camera/vThirdPersonCamera.cs" />
     <Compile Include="Assets/DialogueEditor/Assets/Scripts/NPCConversation.cs" />
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vPickupItem.cs" />
+    <Compile Include="Assets/GameOver/RestartGame.cs" />
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonAnimator.cs" />
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonController.cs" />
     <Compile Include="Assets/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PlayerMovement.cs" />
     <Compile Include="Assets/DialogueEditor/Assets/Scripts/Parameter.cs" />
+    <Compile Include="Assets/Scripts/DamageScript.cs" />
     <Compile Include="Assets/1toonteen/Scripts/blendshapesshow.cs" />
     <Compile Include="Assets/DialogueEditor/Example/Score.cs" />
     <Compile Include="Assets/DialogueEditor/Assets/Scripts/Conversation.cs" />
